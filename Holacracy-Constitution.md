@@ -1,470 +1,458 @@
 # **Holacracy Constitution**
 
-## Preamble
+## Preambule
 
-The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
+***“Ratifiers”*** dengan ini mengadopsi ***“Konstitusi”*** ini sebagai struktur otoritas formal dari ***“Organisasi”*** yang ditentukan. Dengan demikian, Ratifiers menyerahkan kekuasaan mereka untuk mengatur dan menjalankan Organisasi ke dalam aturan dan proses yang ada di sini, kecuali untuk setiap kekuasaan yang Ratifiers tidak memiliki otoritas untuk mendellegasikan. Ratifiers atau penerus mereka dapat mengubah Konstitusi ini atau membatalkannya menggunakan otoritas apa pun yang mereka andalkan untuk mengadopsinya, asalkan semua amendemen dibuat secara tertulis.
 
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+Setiap kebijakan dan sistem yang sudah ada yang berlaku sebelum mengadopsi Konstitusi ini tetap berlaku sepenuhnya setelah pengadopsian, namun mereka tidak boleh diperluas atau dimodifikasi kecuali oleh otoritas dan proses yang ditentukan di sini. Kebijakan dan sistem warisan ini juga kehilangan semua berat dan otoritas segera setelah proses Konstitusi ini menciptakan sesuatu yang menggantikan atau bertentangan dengan mereka.
 
-The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.
+Organisasi dapat menunjuk ***“Partner”*** lain selain dari Ratifiers untuk membantu dalam Governance dan operasinya, asalkan setiap Partner tersebut juga setuju untuk mematuhi semua ketentuan yang relevan dari Konstitusi ini. Dalam batasan tersebut, Organisasi dapat menentukan bagaimana cara memberikan atau mencabut status Partner, kecuali dinyatakan lain oleh Ratifiers, dan Ratifiers dapat menentukan Partner awal untuk Organisasi.
 
-Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
+Setiap Partner dapat mengandalkan otoritas yang diberikan oleh Konstitusi ini sejauh Ratifiers memiliki otoritas tersebut sebelum mengadopsinya. Semua tanggung jawab dan batasan bagi seorang Partner berasal dari Konstitusi ini dan output dari prosesnya, dan dari setiap kewajiban hukum yang dimiliki oleh Partner tersebut terhadap Organisasi dan saat bertindak atas nama Organisasi. Tidak ada ekspektasi atau batasan implisit yang memiliki kekuatan atas seorang Partner, dan juga tidak ada perintah yang dikeluarkan di luar wewenang yang diberikan oleh Konstitusi ini.
 
+## Artikel 1: Struktur Organisasi
 
-## Article 1: Organizational Structure
+### 1.1 Definisi "Role"
 
-### 1.1 Role Definition
+Sebuah ***“Role”*** adalah konstruksi organisasi yang dapat diisi oleh seseorang dan kemudian dikerahkan atas nama Organisasi. Siapa pun yang mengisi sebuah Role adalah ***"Role Lead"*** untuk Role tersebut.
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+Sebuah definisi Role terdiri dari nama deskriptif dan satu atau lebih dari yang berikut ini:
 
-A Role definition consists of a descriptive name and one or more of the following:
+- **(a)** sebuah ***“Purpose”***, yang merupakan kapasitas, potensi, atau tujuan yang akan diperjuangkan atau diungkapkan oleh Role tersebut.
+- **(b)** satu atau lebih ***“Domains”***, yang merupakan aset, proses, atau hal lain yang mungkin secara eksklusif dikuasai dan diatur oleh Role tersebut sebagai miliknya, untuk tujuannya.
+- **(c)** satu atau lebih ***“Accountabilities”***, yang merupakan aktivitas berkelanjutan yang akan dikelola dan dilaksanakan oleh Role tersebut untuk melayani Role lain atau untuk mendukung Purpose Role tersebut.
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its Purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
-
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
+Sebuah Role juga dapat memiliki ***“Policies”***, yang merupakan pemberian atau pembatasan wewenang, atau aturan khusus yang berlaku dalam Role tersebut.
 
 ### 1.2 Responsibilities of Role Leads
 
-As a Role Lead, you have the following responsibilities:
+Sebagai seorang Role Lead, Anda memiliki tanggung jawab berikut:
 
-#### 1.2.1 Processing Tensions
+#### 1.2.1 Memproses "Tensions"
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to enact your vision by taking steps to reduce or resolve those Tensions.
+Anda bertanggung jawab untuk membandingkan ekspresi aktual Purpose dan Accountabilities Role Anda dengan visi potensial ideal mereka, untuk mengidentifikasi kesenjangan antara keduanya (setiap kesenjangan adalah ***“Tension”***). Anda kemudian bertanggung jawab untuk mencoba mewujudkan visi Anda dengan mengambil langkah-langkah untuk mengurangi atau menyelesaikan Tension tersebut.
 
-#### 1.2.2 Processing Purpose & Accountabilities
+#### 1.2.2 Memproses Purpose & Accountabilities
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+Anda bertanggung jawab untuk secara teratur mempertimbangkan cara untuk mewujudkan Purpose dan masing-masing Accountability Role Anda, dengan mendefinisikan:
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+- **(a)** ***“Next-Actions”***, yang merupakan tindakan yang berguna yang bisa Anda ambil segera, setidaknya dalam ketiadaan prioritas bersaing; dan
+- **(b)** ***“Projects”***, yang merupakan hasil khusus yang akan berguna untuk dikerjakan, setidaknya dalam ketiadaan prioritas bersaing.
 
-#### 1.2.3 Breaking Down Projects
+#### 1.2.3 Membongkar Projects
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+Anda bertanggung jawab untuk secara teratur mendefinisikan Next-Actions untuk setiap Projects aktif Role Anda.
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+#### 1.2.4 Melacak Projects, Next-Actions, & Tensions
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+Anda bertanggung jawab untuk menangkap dan melacak semua Projects dan Next-Actions untuk Role Anda dalam daftar tertulis. Anda juga harus melacak Tensions yang ingin Anda selesaikan, setidaknya sampai Anda memprosesnya menjadi Projects atau Next-Actions. Anda juga bertanggung jawab untuk secara teratur meninjau dan memperbarui daftar ini, untuk menjaga agar mereka tetap menjadi sumber pekerjaan potensial yang terpercaya untuk Role Anda.
 
-#### 1.2.5 Executing Next-Actions
+#### 1.2.5 Melaksanakan Next-Actions
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+Setiap kali Anda memiliki waktu yang tersedia untuk bertindak dalam sebuah Role, Anda bertanggung jawab untuk mempertimbangkan Next-Actions yang bisa Anda ambil, dan melaksanakan yang akan memberikan nilai tambah terbesar bagi Organisasi.
 
 ### 1.3 Circles
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
+Sebuah ***“Circle”*** adalah sebuah wadah untuk mengorganisir Role dan Policy seputar Tujuan umum. Role dan Policy dalam suatu Circle membentuk ***“Governance”*** yang berfungsi.
 
-#### 1.3.1 Breaking Down Roles
+#### 1.3.1 Membongkar Roles
 
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.
+Di dalam setiap Role ada sebuah Circle. Circle ini dapat menampung Role dan Policy sendiri untuk memecah dan mengorganisir pekerjaannya. Hal ini tidak berlaku untuk Roles yang ditentukan dalam Konstitusi ini, yang tidak boleh dibongkar lebih lanjut.
 
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+Circle internal sebuah Role dianggap sebagai ***“Sub-Circle”*** dari Circle yang lebih luas yang memegang Role tersebut, sementara Circle yang lebih luas itu adalah ***“Super-Circle”***.
 
-#### 1.3.2 Delegating Domains
+#### 1.3.2 Mendelegasikan Domain
 
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+Ketika sebuah Circle memberikan sebuah Domain kepada salah satu Rolesnya, setiap Role Lead untuk Role tersebut dapat mengontrol Domain tersebut atas nama Circle. Sebuah Circle hanya dapat memberikan Domain kepada Rolesnya yang berada dalam Domain Circle itu sendiri, atau yang hanya relevan dalam proses internalnya sendiri.
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.
+Setelah sebuah Role mengontrol sebuah Domain, ia dapat membuat Policy yang mengatur Domain tersebut dalam Governance sendiri. Namun, Circle yang mendelekasikan Domain tersebut tetap memiliki hak untuk menentukan Policy sendiri yang mengatur Domain tersebut juga. Setiap Policy semacam itu mengesampingkan yang ditentukan oleh Role dalam kasus konflik.
 
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+Mendelekasikan sebuah Domain kepada sebuah Role tidak mendelekasikan hak Circle untuk mengontrol pengeluaran uang atau aset, kecuali dinyatakan secara eksplisit.
 
 #### 1.3.3 Anchor Circle
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
+Circle terluas yang memegang Tujuan dari seluruh Organisasi adalah ***“Anchor Circle”***. Anchor Circle memegang semua otoritas dan Domain yang dikuasai Organisasi itu sendiri, dan tidak memiliki Super-Circle. Anchor Circle dapat mengubah Tujuan sendiri atau menjelaskan Accountabilities sendiri melalui sebuah Policy.
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+Para Ratifiers dapat menentukan struktur awal dan Governance lainnya dalam Anchor Circle saat mengadopsi Konstitusi ini.
 
-#### 1.3.4 Linking Into Circles
+#### 1.3.4 Mengaitkan ke Dalam Circles
 
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
+Sebuah ***“Circle”*** dapat terhubung ke dalam Circle lain jika sebuah ***“Policy”*** dari Circle lain tersebut atau salah satu ***Super-circle*** mengundangnya.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+Setelah terhubung ke dalam Circle lain, sebuah ***“Role”*** dianggap bagian dari ***“Governance”*** dari Circle tersebut. Circle tersebut dapat menambahkan ke Role dan kemudian mengubah apa yang ditambahkan. Namun, Circle tersebut tidak dapat menghapus Role tersebut atau mengubah apa pun yang ditambahkan oleh Circle lain, dan Circle lain tidak dapat mengubah atau menghapus apa pun yang ditambahkan. Otoritas untuk menambahkan atau mengubah ***“assignments”*** ke dalam Role tetap berada di Circle sumbernya. Circle yang menjadi tujuan tautan Role tersebut tidak dianggap sebagai ***Super-circle***-nya, dan begitu juga Circle internal Role tidak dianggap sebagai ***Sub-circle***-nya.
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's source Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+Sebuah Circle dapat membatalkan tautan sebuah Role dengan menghapus ***Policy*** yang mengundangnya untuk terhubung, atau dengan mekanisme lain yang didefinisikan dalam ***Policy*** tersebut. Sebuah Role juga dapat memilih untuk menghapus dirinya sendiri dari sebuah Circle yang terhubung, kecuali sebuah ***Policy*** di dalam atau yang berlaku pada Circle sumber Role tersebut mengatakan lain. Begitu tidak terhubung dari sebuah Circle, segala ***Governance*** yang ditambahkan ke Role oleh Circle tersebut secara otomatis dihapus.
 
-#### 1.3.5 Facilitator & Secretary Roles
+#### 1.3.5 Role Pendamping & secretary
 
-Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
+Setiap Circle dapat menunjuk seseorang sebagai ***"Facilitator"*** Circle. Fasilitator yang dipilih mengisi ***“Role Facilitator”*** di dalam Circle, dengan ***Purpose*** "Governance Circle dan praktik operasional yang selaras dengan Konstitusi".
 
-Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".
+Setiap Circle dapat menunjuk seseorang sebagai ***"Secretary"*** Circle. Secretary yang dipilih mengisi ***“Role Secretary”*** di dalam Circle, dengan ***Purpose*** "Menstabilkan catatan dan Meeting yang diperlukan secara konstitusi Circle".
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
+Sebuah Circle dapat menambahkan ***Accountabilities*** atau ***Domains*** ke ***Role Facilitator*** atau ***Secretary***nya sendiri, serta mengubah atau menghapus tambahan tersebut. Tidak ada Circle yang dapat mengubah atau menghapus ***Purpose*** dari kedua ***Role***, maupun ***Accountabilities*** atau ***Domains*** yang ditempatkan pada ***Role*** tersebut oleh ***Konstitusi*** ini.
 
 ### 1.4 Circle Leads
 
-Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.
+Melayani sebagai seorang ***Role Lead*** juga berarti melayani sebagai ***“Circle Lead”*** dalam Circle internal Role tersebut, dan dengan demikian mengisi ***“Role Circle Lead”*** di dalamnya. Role Circle Lead memiliki ***Purpose*** keseluruhan dari ***Role*** yang lebih luas tersebut, dan semua ***Accountabilities*** pada ***Role*** tersebut sejauh mereka tidak ditutupi oleh ***Role*** atau proses lain dalam Circle tersebut.
 
-The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+***Anchor Circle*** tidak memiliki ***Circle Leads***, kecuali sebuah ***Policy*** dari Circle mengatakan sebaliknya.
 
-#### 1.4.1 Assigning Roles
+#### 1.4.1 Menugaskan Roles
 
-A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+Seorang ***Circle Lead*** mengontrol penugasan ***Role Circle*** dan dapat menugaskan setiap ***Role*** dalam Circle kepada siapa pun yang bersedia mengisinya, termasuk kepada beberapa orang pada saat yang sama. Setiap orang yang ditugaskan dapat kemudian mengundurkan diri dari pengisian ***Role*** tersebut, kecuali jika mereka setuju lain. Seorang ***Circle Lead*** juga dapat mencabut penugasan ke setiap ***Role*** dalam Circle kapan saja.
 
-A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.
+Seorang ***Circle Lead*** juga dapat lebih memfokuskan penugasan ***Role*** pada hanya konteks tertentu. Untuk melakukannya, definisi ***Role*** secara keseluruhan masih harus relevan dalam konteks tersebut. Ketika fokus digunakan, setiap fokus penugasan berperilaku seperti sebuah ***Role*** terpisah. ***Role Purpose***, ***Domains***, dan ***Accountabilities*** semua masih berlaku, tetapi hanya dalam fokus penugasan.
 
-No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
+Tidak ada orang selain ***Circle Lead*** yang dapat menugaskan sebuah ***Role*** atau mencabut penugasan ***Role*** dalam Circle, kecuali Circle telah mendelekasikan kontrol penugasan ***Role*** ke sebuah ***Role*** atau proses yang berbeda. Sebuah ***Policy*** dapat lebih membatasi penugasan atau pencabutan ***Role***.
 
-#### 1.4.2 Covering Unfilled Roles
+#### 1.4.2 Meliputi Role yang Belum Terisi
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
+Setiap kali sebuah "Role" dalam sebuah "Circle" tidak terisi, setiap "Circle Lead" secara otomatis dianggap sebagai "Role Lead" dari "Role" yang belum terisi tersebut.
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
+Ketika sebuah "Role" hanya diisi oleh orang-orang yang bukan "Partners" dari Organisasi, maka setiap "Circle Lead" secara otomatis dianggap sebagai "Role Lead" dari "Role" tersebut juga. Namun, penugasan default ini hanya berlaku sejauh "non-Partners" tersebut tidak secara aktif memenuhi tanggung jawab dan tugas yang relevan yang akan dipegang oleh seorang "Partner".
 
-#### 1.4.3 Defining Priorities & Strategies
+#### 1.4.3 Mendefinisikan Prioritas & Strategi
 
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
+Seorang "Circle Lead" dapat menilai nilai relatif dari upaya-upaya Circle yang potensial untuk menyelesaikan konflik prioritas di antara "Roles". Seorang "Circle Lead" juga dapat mendefinisikan sebuah ***“Strategi”*** untuk "Circle" tersebut, atau banyak Strategi, yang merupakan heuristik-heuristik yang memandu prioritisasi di dalam "Circle".
 
-#### 1.4.4 Routing External References
+#### 1.4.4 Mengarahkan Referensi Eksternal
 
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
+Setiap kali Governance di luar "Circle" merujuk "Circle" itu sendiri atau salah satu "Role" di dalam "Circle", seorang "Circle Lead" dapat memperbarui referensi tersebut agar mengacu pada "Role" lain dalam "Circle". Klarifikasi ini tidak dianggap sebagai perubahan terhadap Governance "Circle" tersebut.
 
-#### 1.4.5 Amending the Circle Lead Role
+#### 1.4.5 Memodifikasi Role Circle Lead
 
-A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
+Sebuah "Circle" tidak boleh memodifikasi "Purpose" dari Role Circle Lead-nya, atau menghapus "Role" tersebut.
 
-A Circle may add Accountabilities or Domains to the Circle Lead Role, and later remove these additions. However, any additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role, or any only relevant within that Circle.
+Sebuah "Circle" dapat menambahkan "Accountabilities" atau "Domains" ke Role Circle Lead, dan kemudian menghapus penambahan tersebut. Namun, setiap penambahan secara otomatis berlaku untuk setiap Role Circle Lead dari setiap "Sub-Circle" juga, secara rekursif. Sebuah "Circle" tidak dapat menambahkan "Accountabilities" atau "Domains" hanya ke Role Circle Lead miliknya sendiri, atau yang hanya relevan dalam "Circle" tersebut.
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant authority or element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+Sebuah "Circle" dapat menghapus "Accountabilities", "Domains", kewenangan, atau fungsi dari Role Circle Lead-nya sendiri. Hal ini dapat dilakukan baik dengan meletakkannya pada Role lain dalam "Circle" tersebut, atau dengan mendefinisikan cara alternatif untuk menerapkannya. Melakukan hal ini secara otomatis menghapus otoritas atau elemen yang relevan dari Role Circle Lead "Circle" tersebut, selama delegasi tetap ada.
 
 
-## Article 2: Rules of Cooperation
+## Artikel 2: Aturan Kerjasama
 
-### 2.1 Duty of Transparency
+### 2.1 Kewajiban Transparansi
 
-As a Partner, you have the duty to provide transparency to Role Leads in the Organization upon their request, as follows:
+Sebagai "Partner", Anda memiliki kewajiban untuk memberikan transparansi kepada "Role Leads" dalam Organisasi atas permintaan mereka, sebagai berikut:
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for the Organization.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in your Roles or towards any of your Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
-- **(g) Other Information:** You must share any other information that's readily available to you and won't cause harm to share.
+- **(a) "Projects" & "Next-Actions":** Anda harus membagikan semua "Projects" dan "Next-Actions" yang sedang Anda lacak untuk Organisasi.
+- **(b) Prioritas Relatif:** Anda harus membagikan penilaian Anda terhadap prioritas relatif dari setiap "Projects" atau "Next-Actions" Anda dibandingkan dengan hal lain yang bersaing untuk perhatian Anda.
+- **(c) Proyeksi:** Anda harus memberikan proyeksi kapan Anda mengharapkan menyelesaikan salah satu "Projects" atau "Next-Actions" Anda. Estimasi kasar sudah cukup, mengingat konteks dan prioritas Anda saat ini. Analisis atau perencanaan yang rinci tidak diperlukan, dan proyeksi ini bukanlah suatu komitmen dengan cara apa pun. Kecuali jika Governance mengatakan sebaliknya, Anda tidak memiliki kewajiban untuk melacak proyeksi atau melakukan tindak lanjut dengan penerima jika ada perubahan.
+- **(d) Item "Checklist":** Anda harus memverifikasi penyelesaian setiap tindakan berulang yang Anda lakukan untuk Role Anda atau sebagai "Partner" dari Organisasi. Jika diminta, Anda harus terus membagikan verifikasi ini secara teratur, sampai Anda yakin mereka tidak lagi berguna.
+- **(e) "Metrics":** Anda harus membagikan semua "metrics" yang Anda kumpulkan dalam Role Anda atau sebagai "Partner" dari Organisasi. Jika diminta, Anda harus terus membagikan "metrics" ini secara teratur, sampai Anda menentukan bahwa mereka tidak lagi berguna.
+- **(f) Pembaruan Kemajuan:** Anda harus membagikan ringkasan kemajuan yang Anda buat dalam Role Anda atau menuju salah satu "Projects" Anda sejak pembaruan terakhir yang Anda bagikan. Jika diminta, Anda harus terus membagikan pembaruan ini secara teratur, sampai Anda menentukan bahwa mereka tidak lagi berguna.
+- **(g) Informasi Lain:** Anda harus membagikan semua informasi lain yang mudah tersedia bagi Anda dan tidak akan menyebabkan kerusakan jika dibagikan.
 
-### 2.2 Duty of Processing
+### 2.2 Kewajiban Pengolahan
 
-As a Partner, you have the duty to promptly process messages and requests from Role Leads in the Organization, as follows:
+Sebagai "Partner", Anda memiliki kewajiban untuk segera memproses pesan dan permintaan dari "Role Leads" dalam Organisasi, sebagai berikut:
 
-- **(a) Requests to Clarify:** Others may ask you to clarify the next steps for any of your Projects or for any Accountability of your Roles. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project. You must accept and track it if you believe it would make sense to work towards in one of your Roles or as a Partner of the Organization, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Roles. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
+- **(a) Permintaan untuk Klarifikasi:** Orang lain dapat meminta Anda untuk menjelaskan langkah-langkah selanjutnya untuk salah satu "Projects" Anda atau untuk setiap "Accountability" dari Role Anda. Anda kemudian harus menentukan dan menyampaikan "Next-Action" untuk memajukannya, jika ada yang bisa Anda lakukan. Jika tidak, Anda harus membagikan apa yang Anda tunggu sebelum Anda dapat mengambil "Next-Action".
+- **(b) Permintaan untuk "Projects" & "Next-Actions":** Orang lain dapat meminta Anda untuk mengambil "Next-Action" atau "Project" tertentu. Anda harus menerimanya dan melacaknya jika Anda percaya itu masuk akal untuk bekerja menuju satu dari Role Anda atau sebagai "Partner" dari Organisasi, setidaknya dalam ketiadaan prioritas yang bersaing. Jika tidak, maka Anda harus menjelaskan alasan Anda, atau menyarankan sesuatu yang lain yang menurut Anda akan memenuhi tujuan pengirim permintaan tersebut.
+- **(c) Permintaan untuk Mempengaruhi "Domain":** Orang lain dapat meminta untuk mempengaruhi "Domain" yang dikendalikan oleh salah satu Role Anda. Anda harus mengizinkan dampak tersebut jika Anda tidak melihat alasan bahwa hal itu akan mengurangi kapasitas Anda untuk melaksanakan "Purpose" atau "Accountabilities" Role Anda. Jika Anda melihat alasan tersebut, Anda harus menjelaskannya kepada pihak yang meminta.
 
-### 2.3 Duty of Prioritization
 
-As a Partner, you have a duty to prioritize your attention in alignment with the following:
+### 2.3 Kewajiban Prioritisasi
 
-- **(a) Processing:** You must generally prioritize processing inbound messages to your Roles from other Role Leads over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when another Partner explicitly requests this prioritization for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on in a Role, you must consider any official Strategies or relative prioritizations of that Role, of any Circle holding that Role, and of any Super-Circle thereof. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities. Official priorities of a Circle are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for that Circle.
-- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, no one may interpret that as a mandate to meet that deadline regardless of the impact of doing so. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
+Sebagai "Partner", Anda memiliki kewajiban untuk memprioritaskan perhatian Anda sesuai dengan hal berikut:
 
-### 2.4 Relational Agreements
+- **(a) Pengolahan:** Anda harus umumnya memprioritaskan pengolahan pesan masuk ke Role Anda dari "Role Leads" lain daripada mengeksekusi "Next-Actions" Anda sendiri. Namun, Anda dapat menunda pengolahan pesan sampai Anda dapat memprosesnya secara bersamaan pada waktu yang nyaman, selama pengolahan Anda masih cepat. Pengolahan mencakup terlibat dalam segala kewajiban dalam Artikel ini, dan kemudian membagikan bagaimana Anda memproses pesan tersebut atas permintaan. Pengolahan tidak termasuk mengeksekusi "Next-Actions" atau "Projects" apa pun yang Anda tangkap.
+- **(b) Meeting:** Anda harus memprioritaskan menghadiri setiap Meeting yang ditentukan dalam Konstitusi ini daripada mengeksekusi "Next-Actions" Anda sendiri, tetapi hanya ketika "Partner" lain secara eksplisit meminta prioritisasi ini untuk Meeting tertentu. Anda masih dapat menolak permintaan jika Anda sudah memiliki rencana yang dijadwalkan pada waktu Meeting tersebut.
+- **(c) Prioritas "Circle":** Saat memilih apa yang akan dikerjakan dalam suatu Role, Anda harus mempertimbangkan Strategi resmi atau prioritas relatif dari Role tersebut, dari setiap "Circle" yang memegang Role tersebut, dan dari setiap "Super-Circle" dari sana. Anda kemudian harus memperlakukan prioritas resmi ini lebih penting bagi Organisasi daripada prioritas individual Anda sendiri atau penilaian Anda sendiri tentang prioritas Organisasi. Prioritas resmi dari suatu "Circle" adalah yang ditentukan oleh "Circle Lead", atau oleh Role atau proses lain dengan otoritas untuk menyelesaikan konflik prioritas dan mendefinisikan Strategi untuk "Circle" tersebut.
+- **(d) Batas Waktu:** Jika Governance atau Strategi resmi atau prioritisasi dari suatu "Circle" mencakup batas waktu yang menentukan kapan sesuatu harus dilakukan, tidak ada yang boleh menafsirkannya sebagai mandat untuk memenuhi batas waktu tersebut terlepas dari dampak yang ditimbulkannya. Sebaliknya, Anda harus menafsirkannya sebagai prioritas resmi dari segala tindakan yang diperlukan untuk mencapai batas waktu tersebut daripada tindakan lain untuk "Circle" tersebut, dan bertindak sesuai. Seorang "Circle Lead" atau Role atau proses lain dengan otoritas untuk menyelesaikan konflik prioritas antar Role dapat mengesampingkan prioritisasi ini.
 
-As a Partner, you may have ***“Relational Agreements”*** with other Partners. These are agreements about how you will relate together while working in the Organization, or about how you will fulfill your general functions as Partners of the Organization. They may add to or clarify the duties in this Article, but they may not conflict with them.
+### 2.4 Relational Agreement
 
-Relational Agreements must remain focused on shaping behaviors that generally underpin work; they may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor; they may not include promises to achieve specific outcomes or embody abstract qualities.
+Sebagai "Partner", Anda mungkin memiliki ***“Relational Agreement”*** dengan "Partner" lain. Ini adalah perjanjian tentang bagaimana Anda akan berhubungan bersama saat bekerja di Organisasi, atau tentang bagaimana Anda akan memenuhi fungsi umum Anda sebagai "Partners" dari Organisasi. Mereka dapat menambah atau menjelaskan kewajiban dalam Artikel ini, tetapi tidak boleh bertentangan dengan mereka.
 
-As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Unless otherwise agreed, either party may later terminate the Relational Agreement by notifying the other party.
+Relational Agreement harus tetap difokuskan pada membentuk perilaku yang secara umum menjadi dasar dari pekerjaan; mereka tidak boleh menetapkan harapan pekerjaan yang harus dilakukan dalam sebuah Role, atau harapan tentang bagaimana seorang "Partner" akan memprioritaskan di berbagai Role. Selain itu, mereka hanya boleh menentukan tindakan konkret yang harus dilakukan atau batasan perilaku yang harus dihormati; mereka tidak boleh mencakup janji untuk mencapai hasil tertentu atau mewujudkan kualitas abstrak.
 
-As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process for the Organization may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
+Sebagai "Partner", Anda dapat meminta Relational Agreement dari "Partner" lain untuk preferensi pribadi Anda sendiri atau untuk melayani Role yang Anda isi. "Partner" tersebut dapat menerima atau menolak Relational Agreement yang diminta berdasarkan preferensi pribadi mereka sendiri. Kecuali disepakati sebaliknya, salah satu pihak dapat mengakhiri Relational Agreement tersebut dengan memberi tahu pihak lain.
 
+Sebagai "Partner", Anda memiliki kewajiban untuk menyelaraskan perilaku Anda dengan semua Relational Agreement tertulis yang telah Anda buat. Siapapun yang memfasilitasi Meeting atau proses untuk Organisasi juga dapat menegakkan Relational Agreement ini selama Meeting atau proses tersebut, selama tidak bertentangan dengan apa pun yang ditentukan dalam Konstitusi ini.
 
-## Article 3: Tactical Meetings
+## Artikel 3: Tactical Meeting
 
-Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretary of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
+Setiap "Partner" dapat mengadakan ***“Tactical Meeting”*** untuk membantu "Partners" dalam berinteraksi satu sama lain dalam tanggung jawab dan kewajiban mereka. Selain itu, "Secretary" dari setiap "Circle" bertanggung jawab untuk menjadwalkan Tactical Meeting reguler untuk "Circle" tersebut.
 
-### 3.1 Attendance
+### 3.1 Kehadiran
 
-For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
+Untuk Tactical Meeting reguler yang diadakan oleh "Secretary" sebuah "Circle", semua Role "Circle" tersebut diundang kecuali jika ada Policy yang menyatakan sebaliknya. Untuk Tactical Meeting lainnya, "Partner" yang mengadakan Meeting harus menentukan Role yang diundang ke Meeting tersebut. Semua "Partners" yang menjabat sebagai "Role Leads" dari Role
 
-### 3.2 Meeting Process
+### 3.2 Proses Meeting
 
-The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretary is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretary, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
+"Fasilitator" dari suatu "Circle" bertanggung jawab untuk memfasilitasi Meeting Taktis reguler "Circle" tersebut, dan "Secretary"-nya bertanggung jawab untuk menangkap dan mempublikasikan output Meeting Taktis. Untuk Meeting Taktis yang dikonvenasikan oleh seseorang selain "Secretary" suatu "Circle", "Partner" yang mengadakan Meeting Taktis harus memfasilitasinya dan menangkap outputnya, atau menunjuk sukarelawan lain atau Role yang sesuai untuk melakukannya.
 
-Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
+Kecuali jika ada Policy yang menyatakan sebaliknya, orang yang memfasilitasi Meeting harus menggunakan proses berikut:
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Project or other initiative that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** Participants build an agenda of items to process within the meeting. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Items:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The person facilitating the meeting manages the time allowed for each agenda item to allow space for the entire agenda, and may cut off processing any item after its due share of meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+- **(a) Putaran Check-in:** Setiap peserta bergiliran membagikan kondisi saat ini mereka, atau menawarkan komentar pembukaan lain untuk Meeting. Tanggapan tidak diperbolehkan.
+- **(b) Tinjauan Checklist:** Setiap peserta memverifikasi penyelesaian tindakan yang berulang yang mereka laporkan secara teratur untuk Role mereka dalam Meeting.
+- **(c) Tinjauan Metrics:** Setiap peserta membagikan metrik apa pun yang mereka laporkan secara teratur untuk Role mereka dalam Meeting.
+- **(d) Pembaruan Kemajuan:** Setiap peserta menyoroti kemajuan dalam setiap "Project" atau inisiatif lain yang mereka laporkan secara teratur untuk Role mereka dalam Meeting. Peserta hanya boleh membagikan kemajuan yang telah dibuat sejak laporan sebelumnya, dan bukan status umum dari pekerjaan apa pun.
+- **(e) Membangun Agenda:** Peserta membangun agenda dari item yang akan diproses dalam Meeting. Setiap peserta dapat menambahkan sebanyak mungkin item agenda yang diinginkan dengan menyediakan label pendek untuk setiap item, tanpa penjelasan atau diskusi yang diperbolehkan. Peserta dapat menambahkan lebih banyak item agenda setelah langkah ini, di antara pemrosesan item agenda yang ada.
+- **(f) Menentukan Prioritas Item:** Untuk memproses setiap item agenda, pemilik item agenda dapat membuat permintaan kepada peserta lain, baik dalam kapasitas umum peserta sebagai "Partner", atau kepada Role yang diwakilinya dalam Meeting tersebut. Namun, permintaan kepada Role hanya dapat dilakukan untuk melayani Role yang dimiliki oleh peminta dalam Meeting tersebut. Orang yang memfasilitasi Meeting mengelola waktu yang diperbolehkan untuk setiap item agenda untuk memberikan ruang bagi seluruh agenda, dan dapat menghentikan pemrosesan item apa pun setelah bagian yang sesuai dari waktu Meeting berakhir.
+- **(g) Putaran Penutup:** Setiap peserta bergiliran membagikan refleksi penutup tentang Meeting tersebut. Tanggapan tidak diperbolehkan.
 
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
+Sebuah Policy dari sebuah "Circle" dapat menentukan proses alternatif atau mengubah proses default ini untuk Meeting Taktis yang dipanggil oleh salah satu Role "Circle" tersebut.
 
+## Artikel 4: Otoritas Terdistribusi
 
-## Article 4: Distributed Authority
+Sebagai "Role Lead", Anda memiliki otoritas untuk mengambil tindakan atau membuat keputusan apa pun untuk melaksanakan "Purpose" atau "Accountabilities" Role Anda, selama Anda tidak melanggar aturan yang ditentukan dalam Konstitusi ini. Saat memprioritaskan dan memilih di antara tindakan potensial Anda, Anda dapat menggunakan penilaian yang wajar dari nilai relatif terhadap Organisasi dari masing-masing.
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+### 4.1 Batasan pada Otoritas
 
-### 4.1 Constraints on Authority
+Sebagai "Role Lead", Anda harus menghormati batasan berikut pada otoritas Anda.
 
-As a Role Lead, you must honor the following constraints on your authority.
+#### 4.1.1 Jangan Melanggar Policy
 
-#### 4.1.1 Don't Violate Policies
+Saat bertindak dalam suatu Role, Anda tidak boleh melanggar Policy apa pun dari Role itu sendiri atau dari setiap "Circle" yang mengandung Role tersebut.
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+#### 4.1.2 Dapatkan Izin Sebelum Memengaruhi "Domain"
 
-#### 4.1.2 Get Permission Before Impacting Domains
+Dalam pelayanan Role Anda, Anda memiliki otoritas untuk memengaruhi dan mengendalikan "Domains" Role Anda.
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+Anda juga dapat memengaruhi setiap "Domain" yang dipegang oleh "Circle" yang berisi Role Anda dan tidak lebih lanjut didelegasikan, atau setiap "Domain" yang "Circle" tersebut sendiri dapat memengaruhi. Tetapi jika Anda percaya bahwa dampak Anda akan sulit atau mahal untuk dibatalkan, Anda perlu mendapatkan izin.
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+Anda tidak boleh mengendalikan atau menyebabkan dampak material pada "Domain" yang didelegasikan kepada suatu Role atau "Circle" yang tidak mengandung Role Anda, kecuali jika Anda mendapatkan izin. Atau Anda tidak boleh melakukannya pada "Domain" yang dimiliki oleh
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+### 4.2 Otoritas Interpretasi
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+Sebagai "Partner", Anda dapat menggunakan penilaian wajar Anda untuk menginterpretasikan Konstitusi ini dan segala sesuatu di bawah otoritasnya. Anda dapat lebih jauh menginterpretasikan bagaimana ini diterapkan dalam setiap situasi tertentu yang Anda hadapi, dan bertindak berdasarkan interpretasi Anda. Namun, Anda harus menginterpretasikan semua Governance dalam konteks "Purpose" dan "Accountabilities" dari "Circle" yang mengandungnya, dan dalam putusan interpretasi resmi dari "Circle" tersebut atau setiap "Super-Circle" dari sana. Anda tidak boleh menggunakan interpretasi apa pun yang bertentangan dengan konteks atau putusan tersebut.
 
-#### 4.1.3 Get Authorization Before Spending Money
+#### 4.2.1 Konflik Interpretasi
 
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
+Sebagai "Partner", interpretasi Anda terhadap Konstitusi ini dan Governance Organisasi kadang-kadang dapat bertentangan dengan "Partner" lain. Ketika hal itu terjadi, salah satu pihak dapat meminta "Secretary" dari setiap "Circle" yang terkena dampak untuk memutuskan interpretasi mana yang akan digunakan, dan "Secretary" bertanggung jawab untuk menginterpretasikan Konstitusi dan segala sesuatu di bawah otoritasnya atas permintaan. Setelah "Secretary" merespons, semua orang harus menyesuaikan diri dengan keputusan "Secretary" tersebut sampai teks atau konteks relevan berubah.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+Setelah memutuskan suatu interpretasi, seorang "Secretary" dapat mempublikasikan keputusan tersebut dan logika di baliknya. Jika dipublikasikan, "Secretary" dari "Circle" tersebut dan setiap "Circle" yang terkandung di dalamnya harus berusaha untuk menyesuaikan diri dengan logika tersebut dalam keputusan masa depan. Namun, seorang "Secretary" masih dapat menentangnya sekali situasi baru yang kuat membuat logika tersebut usang.
 
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+Anda dapat mengajukan banding atas interpretasi seorang "Secretary" kepada "Secretary" dari setiap "Super-Circle". Seorang "Secretary" "Super-Circle" dapat membatalkan interpretasi dari "Secretary" dari setiap "Sub-Circle".
 
-### 4.2 Interpretation Authority
+#### 4.2.2 Menghapus Governance yang Tidak Sah
 
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
+Setiap "Partner" dapat meminta "Secretary" suatu "Circle" untuk memutuskan validitas setiap Governance dalam "Circle" tersebut atau setiap "Sub-Circle" yang terkandung di dalamnya. Jika "Secretary" menyimpulkan bahwa itu melanggar aturan Konstitusi ini, "Secretary" harus menghapusnya dari catatan "Circle" tersebut. Setelah melakukan hal tersebut, "Secretary" harus segera mengkomunikasikan apa yang mereka hapus dan mengapa kepada semua "Partners" yang mengisi Role dalam "Circle" tersebut.
 
-#### 4.2.1 Conflicts of Interpretation
+### 4.3 Inisiatif Individu
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use, and the Secretary is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+Sebagai "Partner", dalam beberapa kasus Anda diizinkan untuk mengambil ***“Inisiatif Individu”*** dengan bertindak di luar otoritas Role Anda atau dengan melanggar aturan dalam Konstitusi ini.
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+#### 4.3.1 Situasi yang Diizinkan
 
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+Anda hanya boleh mengambil Inisiatif Individu ketika semua hal berikut benar:
 
-#### 4.2.2 Striking Invalid Governance
+- **(a)** Anda bertindak dengan itikad baik untuk melayani "Purpose" atau mengekspresikan "Accountabilities" dari suatu Role dalam Organisasi.
+- **(b)** Anda percaya tindakan Anda akan menyelesaikan atau mencegah lebih banyak "Tension" bagi Organisasi daripada yang kemungkinan akan Anda ciptakan.
+- **(c)** Tindakan Anda tidak akan mengikat Organisasi untuk melakukan pengeluaran apa pun di luar apa yang sudah Anda diizinkan untuk mengeluarkan.
+- **(d)** Jika tindakan Anda akan melanggar Policy atau "Domains" apa pun, Anda percaya bahwa banyak nilai akan hilang jika tertunda untuk mendapatkan izin atau mengubah Governance.
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
+#### 4.3.2 Komunikasi & Restorasi
 
-### 4.3 Individual Initiative
+Setelah mengambil Inisiatif Individu, Anda harus menjelaskan tindakan Anda kepada setiap "Role Leads" yang Anda percaya mungkin terpengaruh secara signifikan. Atas permintaan dari setiap "Role Leads" tersebut, Anda harus mengambil tindakan lebih lanjut untuk membantu menyelesaikan segala Tensions yang ditimbulkan oleh Inisiatif Individu Anda. Anda juga harus menahan diri dari mengambil Inisiatif Individu serupa atas permintaan dari setiap "Role Leads" tersebut.
 
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+Anda harus memberikan prioritas pada komunikasi dan restorasi yang diperlukan oleh bagian ini di atas pekerjaan reguler Anda. Namun, seorang "Circle Lead" dari sebuah "Circle" yang mengandung semua "Roles" yang terpengaruh oleh tindakan Anda dapat mengubah prioritas default ini.
 
-#### 4.3.1 Allowed Situations
 
-You may only take Individual Initiative when all of the following are true:
+## Artikel 5: Proses Governance
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+Mengubah Governance suatu "Circle" memerlukan menggunakan ***“Proses Governance”*** yang ditentukan di sini.
 
-#### 4.3.2 Communication & Restoration
+### 5.1 Peserta Governance
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+Setiap "Circle" memiliki sekelompok ***"Circle Members"*** yang dapat mewakili "Roles"nya dalam Proses Governance-nya.
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
+"Circle Members" dari sebuah "Circle" adalah para "Partners" yang mengisi Role "Circle Lead"nya, serta setiap "Partner" yang melayani sebagai "Role Lead" untuk suatu Role dalam "Circle" tersebut. Jika sebuah Role memiliki beberapa "Role Leads", sebuah "Circle" dapat mengadopsi Policy untuk membatasi berapa banyak dari mereka yang mewakili Role tersebut sebagai "Circle Members" dalam Proses Governance-nya.
 
+#### 5.1.1 Perwakilan Circle
 
-## Article 5: Governance Process
+Setiap "Circle Member" dari suatu "Circle" dapat meminta pemilihan kapan saja untuk memilih atau mengganti seseorang sebagai "Circle Rep" dari "Circle" tersebut untuk membantu mewakili "Circle" tersebut dalam setiap "Circle" yang lebih luas yang mengandungnya. "Circle Rep" yang dipilih mengisi sebuah ***"Circle Rep Role"*** dalam "Circle" tersebut, dengan Tujuan "Tensions yang relevan terhadap proses dalam "Circle" yang lebih luas dialirkan dan diselesaikan", dan "Accountabilities" berikut:
 
-Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
+- **(a)** Berusaha memahami Tensions yang disampaikan oleh "Role Leads" dalam "Circle"
+- **(b)** Membedakan Tensions yang sesuai untuk diproses dalam "Circle" yang lebih luas yang memegang "Circle" tersebut
+- **(c)** Memproses Tensions dalam "Circle" yang lebih luas untuk menghapuskan kendala pada "Circle" tersebut
 
-### 5.1 Governance Participants
+"Circle" harus menggunakan Proses Pemilihan Integratif yang ditentukan di sini untuk memilih "Circle Rep", kecuali jika ada Policy yang menentukan proses alternatif. Hanya "Circle's Circle Members" yang memenuhi syarat untuk melayani sebagai "Circle Rep"nya. Seseorang yang melayani sebagai "Circle Lead" untuk "Circle" tersebut tidak boleh juga melayani sebagai "Circle Rep"-nya. Tidak lebih dari satu orang boleh melayani sebagai "Circle's Circle Rep" pada suatu waktu, kecuali jika ada Policy dari "Circle" yang mengandungnya mengizinkannya.
 
-Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
+"Circle Rep" yang dipilih menjadi "Circle Member" dari setiap "Circle" yang mengandung "Circle" tersebut, dengan kewenangan untuk mewakili "Circle" mereka sama seperti seorang "Circle Lead". Sebuah "Circle" yang mengandung "Circle" tersebut dapat membatasi atau mencegah "Circle Reps" ini dari menjadi "Circle Members"-nya melalui sebuah Policy, tetapi hanya jika "Roles"nya memiliki cara lain untuk menikmati representasi yang sebanding dalam "Circle" tersebut.
 
-A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+Sebuah "Circle" dapat menambahkan "Accountabilities" atau "Domains" ke Role "Circle Rep" mereka sendiri, serta memperbarui atau menghapus penambahan tersebut. Tidak ada "Circle" yang boleh memperbarui atau menghapus Tujuan dari Role tersebut, atau "Accountabilities" apa pun yang ditempatkan pada Role tersebut oleh Konstitusi ini.
 
-#### 5.1.1 Circle Reps
+#### 5.1.2 Fasilitator & Sekretaris
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills a ***"Circle Rep Role"*** in the Circle, with a Purpose of "Tensions relevant to process in a broader Circle channeled out and resolved", and the following Accountabilities:
+"Fasilitator" dari "Circle" bertanggung jawab untuk memfasilitasi Proses Governance-nya. "Sekretaris" dari "Circle" bertanggung jawab untuk menangkap dan mempublikasikan hasil dari Proses Governance-nya, dan memiliki "Domain" atas catatan Governance "Circle".
 
-- **(a)** Seeking to understand Tensions conveyed by Role Leads within the Circle
-- **(b)** Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- **(c)** Processing Tensions within a broader Circle to remove constraints on the Circle
+Setiap "Circle Member" dari sebuah "Circle" dapat meminta pemilihan kapan saja untuk memilih atau mengganti seseorang sebagai "Fasilitator" atau "Sekretaris" dari "Circle" tersebut. "Circle" harus menggunakan Proses Pemilihan Integratif yang ditentukan di sini untuk memilih "Fasilitator" atau "Sekretaris". Tidak ada Role atau Policy yang dapat menugaskan Role "Fasilitator" atau Role "Sekretaris" atau menghapus penugasan melalui cara lain, atau mengubah proses yang diperlukan ini. Biasanya, kandidat-kandidat yang memenuhi syarat untuk pemilihan ini hanya "Circle's Circle Members". Namun, sebuah Policy dari "Circle" atau setiap "Super-Circle" dapat menambahkan atau membatasi kandidat-kandidat yang memenuhi syarat.
 
-The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
+### 5.2 Lingkup Governance
 
-The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
+Dalam Proses Governance suatu "Circle", "Circle Members"-nya dapat:
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of the Role, nor any Accountabilities placed on the Role by this Constitution.
+- **(a)** menentukan, memperbarui, atau menghapus "Roles" dari "Circle" tersebut; dan
+- **(b)** menentukan, memperbarui, atau menghapus Policy dari "Circle" tersebut; dan
+- **(c)** memindahkan "Roles" atau Policy dari "Circle" tersebut ke "Sub-Circle" atau setiap "Sub-Circle"nya, tetapi hanya jika mereka menerapkan Tujuan atau Accountabilities dari "Sub-Circle" tersebut; dan
+- **(d)** memindahkan "Roles" atau Policy dari dalam "Sub-Circle" atau setiap "Sub-Circle"nya keluar ke "Circle" tersebut, tetapi hanya jika mereka tidak lagi relevan untuk menerapkan Tujuan atau Accountabilities dari "Sub-Circle" tersebut; dan
+- **(e)** mengadakan pemilihan untuk setiap Role yang terpilih dalam "Circle" tersebut.
 
-#### 5.1.2 Facilitator & Secretary
+Tidak ada keputusan lain yang merupakan keluaran yang valid dari Proses Governance suatu "Circle".
 
-The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretary is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
+#### 5.2.1 Lingkup Policy
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+Sebuah Policy hanya dapat menjadi salah satu atau lebih dari yang berikut:
 
-### 5.2 Scope of Governance
+- **(a)** sebuah kendala terhadap otoritas satu atau lebih dari "Roles" yang dikandung oleh "Circle" tersebut; atau
+- **(b)** sebuah pemberian otoritas yang dipegang oleh "Circle" atau "Circle Lead" kepada satu atau lebih "Roles"; atau
+- **(c)** sebuah pemberian otoritas yang memungkinkan orang atau "Roles" yang tidak memiliki otorisasi untuk mengendalikan atau memengaruhi salah satu "Domains" dari "Circle", atau sebuah kendala pada bagaimana mereka dapat melakukannya saat memiliki otorisasi; atau
+- **(d)** sebuah aturan yang mengubah aturan atau proses default dalam Konstitusi ini, jika perubahan tersebut secara eksplisit diizinkan.
 
-Within a Circle's Governance Process, its Circle Members may:
+Sebuah Policy yang memberikan atau membatasi otoritas berlaku di semua "Sub-Circles" juga, secara rekursif, kecuali dinyatakan lain. Sebuah Policy yang mengubah aturan atau proses default dalam Konstitusi ini berlaku hanya di dalam "Circle" yang memegang Policy tersebut, atau, jika dinyatakan secara eksplisit, di dalam semua "Sub-Circles" juga, secara rekursif. Dalam kasus terakhir, sebuah "Sub-Circle" masih dapat menimpa Policy tersebut melalui salah satu Policy mereka sendiri, kecuali dilarang secara eksplisit dalam Policy asli.
 
-- **(a)** define, amend, or remove the Circle's Roles; and
-- **(b)** define, amend, or remove the Circle's Policies; and
-- **(c)** move the Circle's own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into the Circle, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Sub-Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
+### 5.3 Mengubah Governance
 
-No other decisions are valid outputs from a Circle's Governance Process.
+Setiap "Circle Member" dari suatu "Circle" dapat memulai Proses Governance-nya dengan mengajukan perubahan pada Governance-nya. Untuk melakukannya, ***“Proposer”*** harus pertama-tama membagikan sebuah ***“Proposal”*** secara tertulis kepada semua "Circle Members" lainnya, menggunakan saluran komunikasi apa pun yang diizinkan oleh "Sekretaris". Para "Circle Members" lainnya tersebut kemudian dapat mengajukan pertanyaan penjelasan, berbagi reaksi, dan menyampaikan kekhawatiran tentang mengadopsi Proposal tersebut. Setiap kekhawatiran adalah ***“Objection”*** jika memenuhi kriteria di sini, dan orang yang mengajukan kekhawatiran tersebut adalah ***“Objector”***.
 
-#### 5.2.1 Scope of Policy
+Setelah setiap "Circle Member" mengkonfirmasi bahwa mereka tidak memiliki Objections terhadap sebuah Proposal, Proposal tersebut diadopsi dan memperbarui Governance dari "Circle" tersebut. Jika Objections diajukan, "Proposer" dan setiap "Objector" harus menemukan cara untuk mengatasi Objections tersebut sebelum "Circle" mengadopsi Proposal tersebut. Setelah setiap upaya seperti itu, semua "Circle Members" harus diberi kesempatan lain untuk mengajukan Objections. Sebuah "Circle" dapat mengadopsi sebuah Policy untuk menentukan batas waktu untuk mengajukan Objections, setelah itu siapa pun yang tidak merespons diasumsikan tidak memiliki Objections. Kapan pun "Circle" sedang memproses sebuah Proposal secara asinkron, setiap "Circle Member" dapat meminta "Proposer" membawa Proposal tersebut ke Meeting untuk pemrosesan secara real-time sebagai gantinya. Kecuali jika ada Policy yang mengatakan sebaliknya, pemrosesan asinkron tersebut kemudian berhenti dan Proposal dianggap ditarik sampai diajukan kembali dalam Meeting.
 
-A Policy may only be one or more of the following:
+Ketika membuat Proposal atau mengajukan Objections, seorang "Circle Member" hanya dapat mewakili "Roles" dalam "Circle" yang mereka isi sebagai "Role Lead" atau mewakili sebagai "Circle Rep". Seorang "Circle Member" juga dapat mewakili sebuah Role yang mereka memiliki izin untuk sementara mewakili dari salah satu "Role Leads"-nya, sampai izin tersebut kedaluwarsa atau ditarik kembali.
 
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+#### 5.3.1 Persyaratan Proposal
 
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in this Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
+Agar sebuah Proposal menjadi sah, "Proposer" harus dapat:
 
-### 5.3 Changing Governance
+- **(a)** menjelaskan sebuah Tension yang akan diatasi oleh Proposal untuk salah satu "Roles" dari Proposer tersebut; dan
+- **(b)** membagikan contoh situasi masa lalu atau sekarang yang menggambarkan Tension tersebut; dan
+- **(c)** memberikan penjelasan yang masuk akal tentang bagaimana Proposal tersebut akan mengurangi Tension tersebut dalam contoh tersebut.
 
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
+Jika pada suatu titik menjadi jelas bagi "Fasilitator" bahwa sebuah Proposal tidak memenuhi kriteria ini, "Fasilitator" harus membuang Proposal tersebut.
 
-Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposer bring the Proposal to a meeting for real-time processing instead. Unless a Policy says otherwise, the asynchronous processing then stops and the Proposal is considered withdrawn until re-proposed at a meeting.
+#### 5.3.2 Persyaratan Objection
 
-When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+Sebuah kekhawatiran tentang mengadopsi Proposal hanya dihitung sebagai Objection jika Objector dapat memberikan argumen yang masuk akal untuk mengapa itu memenuhi **semua** kriteria berikut:
 
-#### 5.3.1 Proposal Requirements
+- **(a)** Proposal akan mengurangi kapasitas Circle untuk mewujudkan Purpose atau Accountabilities-nya.
+- **(b)** Proposal akan membatasi kapasitas Objector untuk mewujudkan Purpose atau sebuah Accountability dari suatu Role yang Objector wakili dalam Circle, bahkan jika Objector tidak mengisi Roles lainnya dalam Organisasi.
+- **(c)** Kekhawatiran tersebut tidak ada bahkan dalam ketiadaan Proposal. Dengan demikian, Tension baru akan diciptakan secara khusus dengan mengadopsi Proposal.
+- **(d)** Proposal akan menyebabkan dampak secara wajib, atau, jika mungkin menyebabkan dampak, Circle tidak akan memiliki kesempatan yang memadai untuk beradaptasi sebelum kerusakan signifikan dapat terjadi.
 
-For a Proposal to be valid, the Proposer must be able to:
+Namun, terlepas dari kriteria di atas, sebuah kekhawatiran selalu dihitung sebagai Objection jika mengadopsi Proposal akan melanggar aturan dalam Konstitusi ini.
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+#### 5.3.3 Pengujian Potensial Objection
 
-If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
+Fasilitator dapat menguji apakah suatu kekhawatiran dihitung sebagai Objection dengan bertanya kepada Objector apakah kekhawatiran tersebut memenuhi kriteria yang diperlukan, dan bagaimana. Ketika menilai tanggapan, Fasilitator hanya dapat menilai apakah Objector menyajikan argumen untuk setiap kriteria menggunakan penalaran logis. Fasilitator tidak boleh menilai berdasarkan akurasi argumen atau pentingnya mengatasinya.
 
-#### 5.3.2 Objection Requirements
+Ketika sebuah Objection diklaim karena mengadopsi Proposal akan melanggar Konstitusi ini, Fasilitator dapat meminta Sekretaris Circle untuk menginterpretasikan apakah itu benar. Jika Sekretaris menentukan bahwa itu tidak, maka Fasilitator harus menolak Objection tersebut.
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+#### 5.3.4 Aturan Integrasi
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+Saat mencoba menyelesaikan sebuah Objection, berlaku aturan berikut:
 
-However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
+- **(a)** Fasilitator harus menguji sebuah Objection jika diminta oleh setiap Circle Member. Jika gagal memenuhi kriteria yang diperlukan, Fasilitator harus membuangnya.
+- **(b)** Objector harus mencoba menemukan amendemen untuk Proposal yang akan menyelesaikan Objection dan masih mengatasi Tension dari Proposer. Jika Fasilitator percaya bahwa Objector tidak membuat upaya dengan itikad baik untuk melakukannya, Fasilitator harus menganggap Objection tersebut ditinggalkan dan membuangnya.
+- **(c)** Setiap Circle Member dapat bertanya kepada Proposer pertanyaan penjelasan tentang Tension di balik Proposal, atau tentang contoh-contoh apa pun yang Proposer bagikan untuk menggambarkan Tension tersebut. Jika Fasilitator percaya bahwa Proposer tidak menjawabnya dengan itikad baik, Fasilitator harus menganggap Proposal tersebut dibuang.
+- **(d)** Objector dapat menyarankan Proposal yang diamendemen, dan menawarkan argumen yang masuk akal mengapa itu harus menyelesaikan Tension. Kemudian, atas permintaan Objector, Proposer harus menyajikan argumen yang masuk akal mengapa Proposal yang diamendemen tersebut akan gagal menyelesaikan Tension dalam setidaknya satu contoh yang Proposer gunakan untuk menggambarkan Tension tersebut. Jika diperlukan, Proposer dapat menambahkan contoh lain untuk menggambarkan mengapa Proposal yang diamendemen tersebut akan gagal menyelesaikan Tension. Jika Fasilitator percaya bahwa Proposer tidak mampu atau tidak bersedia melakukannya, Fasilitator harus menganggap Proposal tersebut dibuang.
 
-#### 5.3.3 Testing Potential Objections
+#### 5.3.5 Proses Pemilihan Integratif
 
-The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+Setiap Circle Member juga dapat memulai Proses Governance Circle dengan meminta pemilihan untuk seorang Circle Rep, Fasilitator, atau Sekretaris. Fasilitator yang bertindak kemudian harus menjalankan ***“Proses Pemilihan Integratif”*** sebagai berikut:
 
-When an Objection is claimed because adopting a Proposal would violate this Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+- **(a) Deskripsikan Role:** Pertama, Fasilitator mengidentifikasi Role target dan memilih istilah untuk pemilihan tersebut. Fasilitator juga dapat menyajikan informasi lain yang relevan dengan pemilihan tersebut. Selama langkah ini dan berikutnya, tidak ada yang boleh mengomentari calon potensial apa pun.
+- **(b) Nominasikan Calon:** Setiap Circle Member menggunakan suara atau forum pribadi lainnya untuk menyebutkan calon yang memenuhi syarat yang menurut Circle Member adalah yang paling cocok untuk Role tersebut. Circle Members harus memberi label pada suara mereka dengan nama mereka sendiri juga, dan tidak ada yang boleh abstain atau mengusulkan beberapa orang.
+- **(c) Putaran Berbagi Nominasi:** Selama langkah ini, Fasilitator berbagi setiap nominasi dengan semua Circle Members. Untuk masing-masing, pemberi nominasi menyatakan mengapa dia atau dia percaya calonnya akan cocok untuk Role tersebut, dan tidak ada yang lain yang merespons. Pemberi nominasi tidak boleh berkomentar tentang calon potensial lainnya selain calon mereka.
+- **(d) Putaran Perubahan Nominasi:** Setelah semua nominasi dibagikan, setiap Circle Member dapat mengubah nominasinya dan menjelaskan alasan perubahan tersebut. Tidak ada tanggapan yang diizinkan.
+- **(e) Ajukan Proposal:** Fasilitator menghitung nominasi, dan membuat Proposal untuk memilih calon dengan jumlah terbanyak. Jika terjadi seri, Fasilitator dapat melakukan salah satu dari yang berikut: (i) jika hanya salah satu dari calon seri telah menominasikan dirinya sendiri, maka mengusulkan orang tersebut; atau (ii) jika orang yang saat ini mengisi Role tersebut termasuk di antara yang seri, mengusulkan orang tersebut; atau (iii) secara acak memilih salah satu dari calon yang seri, dan mengusulkan orang tersebut; atau (iv) kembali ke langkah sebelumnya dan meminta setiap Circle Member yang menominasikan seseorang selain dari calon yang seri untuk mengubah nominasi tersebut menjadi salah satu dari calon yang seri.
+- **(f) Putaran Objection:** Fasilitator bertanya kepada setiap Anggota Lingkaran apakah mereka melihat ada Objections terhadap Proposal tersebut. Jika ada Objections muncul, Fasilitator dapat memperbolehkan diskusi untuk mencoba menyelesaikannya, atau membuang Proposal tersebut. Jika dibuang, Fasilitator kemudian harus kembali ke langkah sebelumnya dalam proses ini, mengabaikan semua nominasi untuk calon yang dibuang, dan menerapkan aturan dari langkah sebelumnya untuk memilih kandidat lain sebagai gantinya.
 
-#### 5.3.4 Rules of Integration
+Sebuah Circle dapat mengadopsi sebuah Policy untuk menentukan batas waktu untuk menominasikan seorang calon atau merespons Proposal selama Proses Pemilihan Integratif. Setelah batas waktu tersebut tercapai, Fasilitator harus mengecualikan siapa pun yang tidak merespons dari sisa proses tersebut.
 
-While attempting to resolve an Objection, the following rules apply:
+Fasilitator dari sebuah Circle bertanggung jawab untuk memicu pemilihan baru untuk Roles yang dipilih Circle setelah setiap masa jabatan pemilihan berakhir.
 
-- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+#### 5.3.6 Pengganti untuk Fasilitator & Sekretaris
 
-#### 5.3.5 Integrative Election Process
+Seorang pengganti dapat bertindak sebagai Fasilitator atau Sekretaris saat Role tersebut belum terisi. Seorang pengganti juga dapat mengisi ketika Fasilitator atau Sekretaris normal tidak tersedia saat diperlukan, atau meminta pengganti atas alasan apa pun.
 
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
+Setiap kali dibutuhkan seorang pengganti, pengganti tersebut adalah, dalam urutan prioritas ini:
 
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Sharing Round:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Objection Round:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+- **(a)** seseorang yang ditentukan oleh orang yang akan digantikan; atau
+- **(b)** untuk Fasilitator, Sekretaris bertindak dari Lingkaran, dan untuk Sekretaris, Fasilitator bertindak dari Lingkaran; atau
+- **(c)** Pemimpin Lingkaran dari Lingkaran, atau, jika ada beberapa Pemimpin Lingkaran, yang pertama menyatakan diri bertindak sebagai pengganti; atau
+- **(d)** anggota Lingkaran pertama yang menyatakan diri bertindak sebagai pengganti.
 
-A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
+### 5.4 Meeting Governance
 
-The Facilitator of a Circle is accountable for triggering new elections for the Circle's elected Roles after each election term expires.
+Selain memproses Proposal yang dibuat secara asinkron di luar Meeting, setiap Lingkaran juga akan mengadakan ***"Meeting Governance"*** secara reguler untuk menerapkan Proses Governance Lingkaran secara real time.
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+Sekretaris Lingkaran bertanggung jawab untuk menjadwalkan Meeting Governance. Selain Meeting Governance yang dijadwalkan secara reguler oleh Lingkaran, Sekretaris harus menjadwalkan Meeting Governance khusus segera setelah diminta oleh anggota Lingkaran mana pun. Peminta dapat lebih lanjut menentukan niat untuk Meeting Governance khusus dan batasan apa pun pada apa yang dapat diubah dalam Meeting tersebut. Ini dapat termasuk memfokuskan Meeting pada Tension tertentu, atau membatasinya hanya pada memodifikasi beberapa Roles tertentu. Dalam hal itu, otoritas Meeting Governance khusus tersebut dibatasi hanya untuk memproses Proposal untuk tujuan yang dinyatakan, dan hanya membuat perubahan dalam batasan yang dinyatakan.
 
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
+#### 5.4.1 Kehadiran
 
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
+Semua Anggota Lingkaran dari sebuah Lingkaran dapat berpartisipasi dalam Meeting Governance. Fasilitator dan Sekretaris yang bertindak juga dapat berpartisipasi meskipun mereka bukan Anggota Lingkaran dari Lingkaran tersebut. Dalam hal ini, mereka menjadi Anggota Lingkaran sementara selama durasi Meeting.
 
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle; or
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Circle Member to declare themselves acting as surrogate.
+Sebagai Circle Rep untuk sebuah Lingkaran, Anda dapat mengundang Partner apa pun untuk bergabung dalam Meeting Governance dari setiap Lingkaran yang langsung berisi Lingkaran Anda. Anda hanya boleh memperpanjang undangan ini kepada satu Partner pada satu waktu, dan hanya untuk membantu dalam memproses Tension spesifik yang memengaruhi Lingkaran yang Anda wakili. Anda juga harus merasakan Tension ini sendiri, dan percaya bahwa masuk akal untuk memprosesnya dalam Lingkaran. Tamu yang diundang Anda menjadi Anggota Lingkaran sementara selama durasi Meeting, atau sampai Anda menarik undangan tersebut. Tamu Anda dapat mewakili Lingkaran Anda bersama dengan Anda dalam Meeting, tetapi hanya saat memproses Tension yang spesifik tersebut.
 
-### 5.4 Governance Meetings
+Di luar hal di atas, tidak ada orang lain yang boleh berpartisipasi dalam Meeting Governance Lingkaran.
 
-In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time.
+#### 5.4.2 Pemberitahuan & Durasi
 
-The Circle's Secretary is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+Sebuah Lingkaran hanya dapat melakukan Meeting Governance jika Sekretaris memberikan pemberitahuan sebelumnya kepada semua Anggota Lingkaran dengan wajar. Selain itu, tidak ada kuorum yang diperlukan untuk sebuah Lingkaran melakukan Meeting Governance, kecuali jika ada Policy yang menentukannya.
 
-#### 5.4.1 Attendance
+Meeting Governance berakhir begitu mencapai durasi yang awalnya dijadwalkan oleh Sekretaris. Sekretaris dapat memilih untuk memperpanjang durasi dalam Meeting, tetapi hanya jika tidak ada Anggota Lingkaran yang meminta sebaliknya.
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+Setiap Anggota Lingkaran yang melewatkan sebagian atau seluruh Meeting Governance dianggap telah memiliki kesempatan untuk mengajukan kekhawatiran tentang setiap Proposal yang dibuat di dalamnya. Dengan demikian, sebuah Lingkaran dapat mengadopsi Proposal dalam Meeting Governance tanpa memperhatikan anggota yang absen.
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+#### 5.4.3 Proses Meeting
 
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
+Fasilitator harus menggunakan proses berikut untuk Meeting Governance:
 
-#### 5.4.2 Notice & Duration
+- **(a) Putaran Check-in:** Setiap peserta secara bergiliran berbagi keadaan mereka saat ini, atau menawarkan komentar pembukaan lainnya untuk Meeting. Respon tidak diperbolehkan.
+- **(b) Pembangunan & Pengolahan Agenda:** Fasilitator membangun agenda Tensions untuk diproses, kemudian memproses setiap item agenda secara bergiliran.
+- **(c) Putaran Penutup:** Setiap peserta secara bergiliran berbagi refleksi penutup tentang Meeting tersebut. Respon tidak diperbolehkan.
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+Pada setiap titik selama proses ini, seorang peserta dapat meminta jeda ***“Time Out”***. Fasilitator dapat memilih untuk memberikan atau menolak permintaan ini. Selama Time Out, peserta dapat mendiskusikan masalah administratif atau aturan Konstitusi ini. Mereka tidak boleh menggunakan Time Out untuk bekerja menuju penyelesaian Tension, Proposal, atau Objection. Fasilitator dapat mengakhiri Time Out kapan saja dan melanjutkan proses Meeting normal.
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+Sebuah Policy dari Lingkaran dapat menambahkan proses ini, tetapi tidak boleh bertentangan dengan aturan atau persyaratan apa pun yang ditentukan dalam Artikel ini.
 
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
+#### 5.4.4 Pembangunan Agenda
 
-#### 5.4.3 Meeting Process
+Fasilitator membangun agenda Tensions untuk diproses dengan meminta item agenda dari semua peserta. Fasilitator harus melakukan ini dalam Meeting dan bukan sebelumnya. Setiap peserta dapat menambahkan sebanyak mungkin item agenda yang diinginkan dengan memberikan label singkat untuk masing-masing, tanpa penjelasan atau diskusi yang diperbolehkan. Peserta dapat menambahkan lebih banyak item agenda selama Meeting, di antara pemrosesan item agenda yang sudah ada.
 
-The Facilitator must use the following process for Governance Meetings:
+Untuk Meeting Governance reguler, Fasilitator dapat memilih urutan untuk memproses item agenda. Namun, atas permintaan peserta Meeting, setiap item agenda yang meminta pemilihan harus diproses terlebih dahulu sebelum yang lain. Untuk Meeting Governance khusus yang dijadwalkan atas permintaan peserta, peserta tersebut dapat memilih urutan agenda.
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+Item agenda diproses satu per satu. Untuk memproses permintaan pemilihan, Fasilitator menggunakan Proses Pemilihan Integratif. Untuk memproses hal lain, Fasilitator menggunakan Proses Pengambilan Keputusan Integratif yang didefinisikan di bawah ini.
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+#### 5.4.5 Proses Pengambilan Keputusan Integratif
 
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article.
+Fasilitator harus menjalankan ***“Proses Pengambilan Keputusan Integratif”*** sebagai berikut:
 
-#### 5.4.4 Agenda Building
+- **(a) Menyajikan Proposal:** Pertama, Penyaji dapat menjelaskan Tension dan menyajikan Proposal untuk mengatasinya. Atas permintaan Penyaji, Fasilitator dapat memperbolehkan orang lain untuk membantu merancang Proposal. Namun, Fasilitator harus memusatkan bantuan ini hanya pada mencapai Proposal awal untuk mengatasi Tension Penyaji. Fasilitator harus melarang pembahasan Tensions lain atau kekhawatiran tentang Proposal.
+- **(b) Pertanyaan Penjelasan:** Setelah Penyaji membuat Proposal, orang lain dapat bertanya untuk lebih memahami Proposal atau Tension di belakangnya. Penyaji dapat menjawab setiap pertanyaan, atau dapat menolak untuk melakukannya. Fasilitator harus menghentikan setiap reaksi atau pendapat yang diungkapkan tentang Proposal, dan mencegah diskusi apa pun. Peserta juga dapat meminta Sekretaris untuk membaca Proposal atau menunjukkan Governance yang ada, selama langkah ini atau kapan pun ketika peserta diizinkan untuk berbicara, dan Sekretaris harus melakukannya.
+- **(c) Putaran Reaksi:** Selanjutnya, setiap peserta kecuali Penyaji dapat berbagi reaksi terhadap Proposal, satu orang pada satu waktu. Fasilitator harus segera menghentikan setiap komentar di luar giliran, setiap upaya untuk melibatkan orang lain dalam dialog, dan setiap reaksi terhadap reaksi lainnya selain terhadap Proposal.
+- **(d) Pilihan untuk Klarifikasi:** Selanjutnya, Penyaji dapat berbagi komentar sebagai tanggapan terhadap reaksi dan membuat amendemen pada Proposal. Namun, tujuan utama dari setiap amendemen harus untuk lebih mengatasi Tension Penyaji, dan bukan Tensions yang diangkat oleh orang lain. Fasilitator harus segera menghentikan komentar dari siapa pun selain Penyaji atau Sekretaris. Setiap keterlibatan oleh Sekretaris harus fokus hanya pada menangkap Proposal yang diubah.
+- **(e) Putaran Objection:** Selanjutnya, setiap peserta, satu per satu, dapat mengangkat kekhawatiran tentang mengadopsi Proposal. Fasilitator harus mencatat kekhawatiran ini sebagai Objections, atau mengujinya untuk melihat apakah mereka memenuhi kriteria Objection dan menangkap yang mana pun yang melakukannya. Jika tidak ada Objections, Proposal diadopsi. Saat menguji kekhawatiran dan menangkap Objections, Fasilitator harus menghentikan dan melarang diskusi atau tanggapan apa pun dari siapa pun selain dari Pemohon Objection.
+- **(f) Integrasi:** Jika ada Objections, Fasilitator kemudian fokus pada masing-masing satu per satu. Untuk setiap Objection, peserta melakukan diskusi untuk menemukan amendemen potensial pada Proposal untuk menyelesaikan Objection tersebut. Fasilitator menandai Objection yang diselesaikan setelah Pemohon Objection mengonfirmasi bahwa Proposal yang diubah tidak akan memicu Objection, dan Penyaji mengonfirmasi bahwa Proposal tersebut masih mengatasi Tension. Selama langkah ini, Fasilitator harus menerapkan aturan integrasi yang dijelaskan dalam Artikel ini. Setelah semua Objections diselesaikan, Fasilitator kembali ke putaran Objection dengan Proposal yang telah diubah.
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+### 5.5 Process Breakdwon
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+Sebuah ***“Process Breakdown”*** terjadi ketika sebuah Lingkaran menunjukkan pola perilaku atau output yang melanggar aturan Konstitusi ini. Fasilitator atau Sekretaris dari sebuah Lingkaran dapat menyatakan Pembongkaran Proses di Lingkaran mereka sendiri atau di Sub-Lingkaran mana pun, dengan menggunakan penilaian mereka yang wajar. Partner yang prihatin dapat lebih lanjut meminta Fasilitator untuk meninjau Sub-Lingkaran untuk mencari Potensi Pembongkaran Proses, dan Fasilitator bertanggung jawab untuk mengaudit Meeting dan catatan Sub-Lingkaran atas permintaan dan menyatakan Pembongkaran Proses jika ditemukan.
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
+#### 5.5.1 Pembongkaran dari Governance Gagal
 
-#### 5.4.5 Integrative Decision-Making Process
+Fasilitator Lingkaran juga dapat menyatakan Pembongkaran Proses di Lingkaran jika sebuah Proposal gagal mencapai resolusi setelah mereka yang terlibat menghabiskan waktu dan upaya yang wajar untuk mencari resolusi.
 
-The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
+#### 5.5.2 Restorasi Proses
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
-- **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+Setiap kali pihak yang berwenang menyatakan Pembongkaran Proses dalam sebuah Lingkaran, hal berikut terjadi:
 
-### 5.5 Process Breakdown
+- **(a)** Fasilitator memperoleh otoritas untuk menilai logika dan relevansi dari setiap argumen yang dibuat untuk memvalidasi Proposal atau Objections di Lingkaran; dan
+- **(b)** Fasilitator Super-Lingkaran memperoleh Proyek untuk memulihkan proses yang sesuai di dalam Lingkaran; dan
+- **(c)** Fasilitator Super-Lingkaran memperoleh otoritas untuk mengambil alih sebagai Fasilitator atau Sekretaris Lingkaran; dan
+- **(d)** Fasilitator Super-Lingkaran dapat menugaskan Circle Lead tambahan ke Lingkaran selama Pembongkaran Proses. Setiap keputusan yang diambil oleh orang tersebut sebagai Circle Lead menggantikan dan mencegah keputusan yang bertentangan oleh Circle Lead lain.
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
+Otoritas-otoritas ini berakhir segera setelah proses yang sesuai dipulihkan di Lingkaran, seperti yang dinilai oleh Fasilitator Super-Lingkaran.
 
-#### 5.5.1 Breakdown from Failed Governance
+Jika Lingkaran dalam Pembongkaran Proses tidak memiliki Super-Lingkaran, maka semua kekuatan di atas menjadi milik Fasilitatornya sendiri.
 
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
+#### 5.5.3 Eskalasi Pembongkaran Proses
 
-#### 5.5.2 Process Restoration
-
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
-
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
-
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
-
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
-
-#### 5.5.3 Escalation of Process Breakdown
-
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+Sebuah Pembongkaran Proses di satu Lingkaran tidak secara otomatis dianggap sebagai Pembongkaran Proses dari Super-Lingkaran tersebut. Namun, jika tetap tidak terselesaikan dalam waktu yang tidak wajar, maka Super-Lingkaran juga dianggap dalam Pembongkaran Proses.
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Karya ini dilisensikan di bawah <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.id">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
----
+--- 
